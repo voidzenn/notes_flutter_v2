@@ -1,6 +1,6 @@
 ### Run flutter app using web version because http will not work when running with emulator.
 
-#### Before running app you need a DB server. Use this json-server
+#### Before running this app you need a DB server. Use this json-server
 - https://github.com/voidzenn/json_server
 
 Install node_modules first with this command
